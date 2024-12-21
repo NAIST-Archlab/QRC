@@ -1,2 +1,2 @@
-# QRC
- Quantum random circuit benchmarking dataset for RIVF2024
+# RQC
+ Random quantum circuit benchmarking dataset for RIVF2024
